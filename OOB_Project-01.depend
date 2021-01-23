@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1575805954 source:c:\users\ozlem\desktop\oob_project-01\main.cpp
+	<stdio.h>
+	"Matrix.h"
+	"Matrix.cpp"
+	<iostream>
+
+1575398955 c:\users\ozlem\desktop\oob_project-01\matrix.h
+	<iostream>
+	<time.h>
+
+1575806268 c:\users\ozlem\desktop\oob_project-01\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<fstream>
+
+1575806268 source:c:\users\ozlem\desktop\oob_project-01\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<fstream>
+
+1575806311 source:c:\users\ozlem\desktop\oop\main.cpp
+	<stdio.h>
+	"Matrix.h"
+	"Matrix.cpp"
+	<iostream>
+
+1575398955 c:\users\ozlem\desktop\oop\matrix.h
+	<iostream>
+	<time.h>
+
+1575806268 c:\users\ozlem\desktop\oop\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<fstream>
+
+1575806268 source:c:\users\ozlem\desktop\oop\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<time.h>
+	<cmath>
+	<stdlib.h>
+	<fstream>
+
