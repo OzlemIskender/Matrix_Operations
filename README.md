@@ -1,2 +1,2 @@
 # Matrix_Operations
-C++
+C++ dili kullanarak matris sınıflarıyla matematiksel işlemler yapıldı.
